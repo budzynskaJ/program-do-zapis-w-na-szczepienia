@@ -1,0 +1,4 @@
+Szczepionka Pfizer została opracowana z wykorzystaniem metody mRNA. Zawiera zmodyfikowany fragment wirusa, który stanowi swoistą instrukcje dla organizmu dotyczącą produkcji białka S wirusa. Tym samym dochodzi do sytuacji, w której układ immunologiczny rozpoznaje białko jako obce i "uczy się" jak walczyć z koronawirusem w przypadku zakażenia.
+Badania kliniczne dowodzą, że szczepionka Pfizer jest bezpieczna a jej skuteczność szacowana jest na 95%.
+Najczęstszymi skutkami ubicznymi są: bóle głowy i stawów, bóle mięśni, ból w miejscu wstrzyknięcia, zmęczenie, dreszcze lub gorączka.
+Sposób podawania - wstrzyknięcie domięśniowe.

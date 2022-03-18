@@ -1,0 +1,4 @@
+Szczepionka wektorowa AstraZeneca wykorzystuje zmodyfikowany wektor wirusowy (transporter), którego zadaniem jest przeniesienie sekwencji genetycznej kodującej białko S koronawirusa.
+Zarówno wektor, jak i sekwencja genetyczna koronawirusa są nieszkodliwe, ponieważ zostały zmodyfikowane biotechnologicznie, aby wyeliminować ryzyko zakażenia po szczepieniu. Jej skuteczność szacuje się na ok. 76%.
+Najczęściej występującymi skutkami ubocznymi mogą być: ból lub tkliwość w miejscu wstrzyknięcia, bóle głowy lub stawów, gorączka, dreszcze lub nudności.
+Sposób podawania - wstrzyknięcie domięśniowe.
