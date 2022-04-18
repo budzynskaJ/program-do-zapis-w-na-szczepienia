@@ -1,8 +1,8 @@
 # program-do-zapisow-na-szczepienia
 
 <ins>Autorki: </ins>
-- [Aleksandra Sidor @AleksandraSidor](https://github.com/AleksandraSidor)
-- [Justyna Budzyńska @budzynskaJ](https://github.com/budzynskaJ)
+- [Aleksandra Sidor](https://github.com/AleksandraSidor)
+- [Justyna Budzyńska](https://github.com/budzynskaJ)
 
 <ins>Opis: </ins>
 
