@@ -1,4 +1,4 @@
-# program-do-zapisow-na-szczepienia
+# Aplikaja do zapisów na szczepienia
 
 <ins>Autorki: </ins>
 - [Aleksandra Sidor](https://github.com/AleksandraSidor)
